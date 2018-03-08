@@ -1,0 +1,38 @@
+THE BOX (?)
+
+FINAL:
+- 2 ultrasonic sensors
+	ACTION: changes the red and blue value based on the two sensor readings,
+		if there are none, the strip pulses green (inviting?)
+- Tinfoil touch sensor
+	ACTION: activates fan to blow air on the users hand
+
+Sensors:
+- 2 ultrasonic sensors
+	ACTION: Change two axis of color of the RGB LEDs (breathing ? box triggered by hand) 
+	ACTION: Play sound based on axis ?
+	ACTION: LED strip
+- Tinfoil touch sensor
+	ACTION: toggle or turn on fan
+- Microphone
+	ACTION: echo or play back sounds to user
+- Crank on outside of box (attached to potentiometer)
+	ACTION: Adjust level of ??????????
+- Piezo
+	ACTION: Do something if you knock the outside of the box
+
+
+Other Possible Actions:
+- Toggle solenoid (jumpscare) with TR switch
+- Play sound through speaker
+- Move servo motor???
+- Touch hand with a feather???
+
+Other Parts:
+- RGB LEDs
+- Shift registers?????
+
+Laser cut the box, opening on the front with black cloth
+	Two compartments?? (one for electronics, one for user interaction)
+
+Laser cool design on box???
